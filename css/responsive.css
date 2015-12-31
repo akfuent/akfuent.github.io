@@ -87,22 +87,19 @@ img {
 	padding-right: 20% !important;
 } 
 
-}
-
-@media screen and (max-width: 360px) {
-#header img {
-width: 50%;
-}
-.figure {
-  padding-left: 0% !important;
-  padding-right: 0% !important;
-} 
-
-}
-
 .ios-footer a {
   color: #aaaaaa !important;
   text-decoration: underline;
 }
 }
 
+/*@media screen and (max-width: 360px) {*/
+/*#header img {*/
+/*width: 50%;*/
+/*}*/
+/*.figure {*/
+/*  padding-left: 0% !important;*/
+/*  padding-right: 0% !important;*/
+/*} */
+
+/*}*/
